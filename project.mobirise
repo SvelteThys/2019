@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3ba-clone",
-    "currentPage": "svelte thys.html",
+    "currentPage": "biografie.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -94,7 +94,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 296,
+    "uniqCompNum": 297,
     "versionPublish": "4.7.10",
     "screenshot": "screenshot.png"
   },
@@ -1100,30 +1100,24 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            "@media (min-width: 992px)": {
-              ".mbr-figure": {
-                "padding-right": "4rem"
-              }
+            ".mbr-text, blockquote": {
+              "color": "#767676"
             },
-            "@media (max-width: 992px)": {
-              ".mbr-figure": {
-                "padding-bottom": "1rem"
-              }
+            ".mbr-text DIV": {
+              "color": "#000000"
             },
-            ".mbr-text": {
+            ".mbr-text B": {
               "color": "#000000"
             }
           },
-          "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n      <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n      <input type=\"range\" inline title=\"Media formaat\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"10\">\n      <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/t-2019-12-30-14-01-46-utc.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>SVELTE THYS&nbsp;</b><br>98 Duffel, België<br>werkt en woont in Gent en Itegem<br><br><b>STUDIES</b><br>2013 -16 Beeldende Vorming, De!kunsthumaniora, Antwerpen.<br>2013 -19 Bachlor in de beeldende kunsten (schilderkunst), LUCA School of Arts, Gent.<br>2019 - 20 Master in de beeldende kunsten (schilderkunst), LUCA School of Arts, Gent.<br><br><b>TENTOONSTELLINGEN</b><br><br><b>27 juni 2020 \n</b><br><b>Op gepaste afstand, Netwerk, Aalst \n</b><br>Een tentoonstelling samengesteld door master studenten van de afstudeerrichting schilderkunst.<br><br><b>16–21 januari 2020 \n<br>Signal, Centrespace Gallery, Bristol (UK) \n</b><br>Een expositie waarbij het werk van docenten en studenten van 4 internationale kunstscholen tentoon werden gesteld.<br><br><b>23–24 mei 2019 \n<br>3bk schilderkunst, In de ruimte, Gent \n</b><br>Een tentoonstelling georganiseerd door het derde jaar schilderkunst van sint-lucas gent.&nbsp;<br><br><b>24 april 2019 \n<br>Duo expo: Svelte Thys &amp; Kellie Lippens, De mitte (LUCA School of Arts), Gent. \n</b><br>De Mitte is een ruimte dat door het initiatief van drie studenten tot gang is gekomen (Sien Goris, Elias Vangenechten en Svelte Thys). Bij deze editie, probeerden Kellie Lippens en Svelte Thys ruimtelijke werken en schilderijen met elkaar te laten communiceren in een kleine ruimte.<br><br></p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p><p>.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content6-87",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "so2ciFHoV4",
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>SVELTE THYS \n</b><div>98 Duffel, België\n</div><div>werkt en woont in Gent en Itegem\n</div><div><b>\n</b></div><div><b>STUDIES\n</b></div><div>2013<b> </b>- 16 Beeldende Vorming, De!kunsthumaniora, Antwerpen.\n</div><div>2013 -19 Bachlor in de beeldende kunsten (schilderkunst), LUCA School of Arts, Gent.\n</div><div>2019 - 20 Master in de beeldende kunsten (schilderkunst), LUCA School of Arts, Gent.<b>\n</b></div><div><b>\n</b></div><div><b>TENTOONSTELLINGEN\n</b></div><div><b>\n</b></div><div><b>27 juni 2020 \n</b></div><div><b>Op gepaste afstand, Netwerk, Aalst \n</b></div><div>Een tentoonstelling samengesteld door master studenten van de afstudeerrichting schilderkunst.\n</div><div><b>\n</b></div><div><b>16–21 januari 2020 \n</b></div><div><b>Signal, Centrespace Gallery, Bristol (UK) \n</b></div><div>Een expositie waarbij het werk van docenten en studenten van 4 internationale kunstscholen tentoon werden gesteld.\n</div><div><b>\n</b></div><div><b>23–24 mei 2019 \n</b></div><div><b>3bk schilderkunst, In de ruimte, Gent \n</b></div><div><b>Een tentoonstelling georganiseerd door het derde jaar schilderkunst van sint-lucas gent. \n</b></div><div><b>\n</b></div><div><b>24 april 2019 \n</b></div><div><b>Duo expo: Svelte Thys &amp; Kellie Lippens, De mitte (LUCA School of Arts), Gent. \n</b></div><div>De<b> </b>Mitte is een ruimte dat door het initiatief van drie studenten tot gang is gekomen (Sien Goris, Elias Vangenechten en Svelte Thys). Bij deze editie, probeerden Kellie Lippens en Svelte Thys ruimtelijke werken en schilderijen met elkaar te laten communiceren in een kleine ruimte.</div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "szutOabA5o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-88"
         },
         {
           "_styles": {

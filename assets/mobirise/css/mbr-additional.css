@@ -2152,22 +2152,19 @@ body {
 .cid-so2b2U45b0 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-so2ciFHoV4 {
-  padding-top: 45px;
+.cid-szutOabA5o {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-so2ciFHoV4 .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-szutOabA5o .mbr-text,
+.cid-szutOabA5o blockquote {
+  color: #767676;
 }
-@media (max-width: 992px) {
-  .cid-so2ciFHoV4 .mbr-figure {
-    padding-bottom: 1rem;
-  }
+.cid-szutOabA5o .mbr-text DIV {
+  color: #000000;
 }
-.cid-so2ciFHoV4 .mbr-text {
+.cid-szutOabA5o .mbr-text B {
   color: #000000;
 }
 .cid-so2aLNsQdS {
