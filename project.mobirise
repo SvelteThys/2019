@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3ba-clone",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -94,7 +94,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 297,
+    "uniqCompNum": 300,
     "versionPublish": "4.7.10",
     "screenshot": "screenshot.png"
   },
@@ -103,7 +103,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Contact",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6365,10 +6365,16 @@
             },
             ".mbr-text P": {
               "color": "#000000"
+            },
+            ".mbr-text DIV": {
+              "color": "#000000"
+            },
+            ".mbr-text": {
+              "color": "#000000"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Svelte Thys, maakt beelden die eigenlijk schilderijen zijn. Het zijn schilderijen, vaak op klein formaat maar soms ook wat groter, die - uitgaande van tekeningen die ontstaan tijdens wandelingen en tochten in de natuur - een beeld geven van een impressie. Deze impressie zal vaak gelinkt zijn aan wat er in de natuur te vinden is. Deze wandelingen situeren zich voornamelijk in het Vlaamse landschap, en dan bij uitstek in mijn geboortestreek, de Zuiderkempen. Waar ik in mijn tekeningen zal trachten specifieke elementen die in de natuur terug te vinden zijn weer te geven en te bevatten, worden de schilderijen - die als een apotheose van de tekeningen en wandelingen kunnen gezien worden - eerder als abstract ervaren omdat ze op een heel indirecte, instinctieve manier naar de natuur en de tekeningen verwijzen. Het zijn dus eerder universele beelden van natuurervaringen. De meeste schilderijen hebben ook een titel. Op die manier geven ze de kijker een link van herkenning!&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 0.8rem;\"><br></span></p><p><span style=\"font-size: 0.8rem;\">De wereld zucht en geeft zijn wezens frisse lucht.&nbsp;</span><br></p><p></p><div>Al ijsberend stap ik op de aarde, zoekend naar zintuigelijke prikkels die het denken doet ontpoppen. Deze ijsberende stapjes worden in schetsboeken geregistreerd, hertekend, bedacht, en gevormd. Al wandelend laat ik me overweldigen door alles wat het leven zichtbaar maakt, schilderend in mijn atelier probeer ik het overweldigende te begrijpen. Het atelier kan daarom aanzien worden als een plek voor het waar maken van een apotheose tussen de ijsbeer op de aarde en het denken dat door middel van schilderen in beeld kan worden gebracht.\n</div><div><br></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "scbpHJbRPN",
           "_anchor": "content1-4j",
           "_protectedParams": [],
@@ -6597,7 +6603,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Biografie",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
